@@ -1,0 +1,35 @@
+.bg-blue {
+    background-color:  rgba(0, 140, 255, 1);
+}
+
+.carousel-item {
+    height: 32rem;
+    background-color: #777;
+}
+
+.caro-text {
+    color: white;
+}
+
+.custom-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 140, 255, 1);
+    padding: 10px;
+    color: white;
+}
